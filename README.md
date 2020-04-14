@@ -1,1 +1,1 @@
-# Git-Essential-Training-Lynda.com-
+# Git-Essential-Training-Lynda.com
